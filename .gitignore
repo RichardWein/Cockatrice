@@ -6,5 +6,5 @@
 !.gitignore
 !.gitattributes
 !*.xml
-!*.cod
+#!*.cod
 !README
