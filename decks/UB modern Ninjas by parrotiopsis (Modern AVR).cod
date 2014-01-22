@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Higure, the Still Wind"/>
+        <card number="2" price="0" name="Ink-Eyes, Servant of Oni"/>
+        <card number="3" price="0" name="Mistblade Shinobi"/>
+        <card number="4" price="0" name="Ninja of the Deep Hours"/>
+        <card number="4" price="0" name="Ornithopter"/>
+        <card number="3" price="0" name="Throat Slitter"/>
+        <card number="4" price="0" name="Tormented Soul"/>
+        <card number="4" price="0" name="Distortion Strike"/>
+        <card number="4" price="0" name="Familiar's Ruse"/>
+        <card number="4" price="0" name="Thoughtseize"/>
+        <card number="4" price="0" name="Drowned Catacomb"/>
+        <card number="4" price="0" name="Island"/>
+        <card number="3" price="0" name="Marsh Flats"/>
+        <card number="1" price="0" name="Minamo, School at Water's Edge"/>
+        <card number="3" price="0" name="Scalding Tarn"/>
+        <card number="1" price="0" name="Shizo, Death's Storehouse"/>
+        <card number="2" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Watery Grave"/>
+        <card number="3" price="0" name="Sword of Fire and Ice"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Go for the Throat"/>
+        <card number="3" price="0" name="Relic of Progenitus"/>
+        <card number="4" price="0" name="Rune Snag"/>
+        <card number="4" price="0" name="Spell Snare"/>
+    </zone>
+</cockatrice_deck>

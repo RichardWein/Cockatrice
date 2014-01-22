@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Kami of the Crescent Moon"/>
+        <card number="4" price="0" name="Boomerang"/>
+        <card number="4" price="0" name="Disrupting Shoal"/>
+        <card number="4" price="0" name="Ebony Owl Netsuke"/>
+        <card number="4" price="0" name="Exhaustion"/>
+        <card number="4" price="0" name="Eye of Nowhere"/>
+        <card number="4" price="0" name="Gitaxian Probe"/>
+        <card number="4" price="0" name="Howling Mine"/>
+        <card number="4" price="0" name="Remand"/>
+        <card number="4" price="0" name="Serum Visions"/>
+        <card number="4" price="0" name="Temple Bell"/>
+        <card number="16" price="0" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Autochthon Wurm"/>
+        <card number="4" price="0" name="Gigadrowse"/>
+        <card number="3" price="0" name="Hibernation"/>
+        <card number="4" price="0" name="Nourishing Shoal"/>
+    </zone>
+</cockatrice_deck>

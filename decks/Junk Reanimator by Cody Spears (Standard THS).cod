@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Angel of Serenity"/>
+        <card number="1" price="0" name="Ashen Rider"/>
+        <card number="1" price="0" name="Blood Baron of Vizkopa"/>
+        <card number="2" price="0" name="Centaur Healer"/>
+        <card number="3" price="0" name="Lotleth Troll"/>
+        <card number="2" price="0" name="Obzedat, Ghost Council"/>
+        <card number="2" price="0" name="Shadowborn Demon"/>
+        <card number="4" price="0" name="Sylvan Caryatid"/>
+        <card number="4" price="0" name="Voice of Resurgence"/>
+        <card number="2" price="0" name="Abrupt Decay"/>
+        <card number="3" price="0" name="Commune with the Gods"/>
+        <card number="4" price="0" name="Grisly Salvage"/>
+        <card number="4" price="0" name="Rescue from the Underworld"/>
+        <card number="2" price="0" name="Whip of Erebos"/>
+        <card number="4" price="0" name="Forest"/>
+        <card number="4" price="0" name="Godless Shrine"/>
+        <card number="1" price="0" name="Golgari Guildgate"/>
+        <card number="4" price="0" name="Overgrown Tomb"/>
+        <card number="2" price="0" name="Plains"/>
+        <card number="1" price="0" name="Selesnya Guildgate"/>
+        <card number="2" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Temple Garden"/>
+        <card number="2" price="0" name="Temple of Silence"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Abrupt Decay"/>
+        <card number="1" price="0" name="Blood Baron of Vizkopa"/>
+        <card number="1" price="0" name="Centaur Healer"/>
+        <card number="1" price="0" name="Doom Blade"/>
+        <card number="2" price="0" name="Golgari Charm"/>
+        <card number="2" price="0" name="Pithing Needle"/>
+        <card number="1" price="0" name="Selesnya Charm"/>
+        <card number="2" price="0" name="Slum Reaper"/>
+        <card number="1" price="0" name="Sylvan Primordial"/>
+        <card number="2" price="0" name="Thoughtseize"/>
+        <card number="1" price="0" name="Trostani, Selesnya's Voice"/>
+    </zone>
+</cockatrice_deck>

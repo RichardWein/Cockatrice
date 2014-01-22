@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Blood Baron of Vizkopa"/>
+        <card number="4" price="0" name="Desecration Demon"/>
+        <card number="4" price="0" name="Loxodon Smiter"/>
+        <card number="3" price="0" name="Obzedat, Ghost Council"/>
+        <card number="4" price="0" name="Sylvan Caryatid"/>
+        <card number="4" price="0" name="Voice of Resurgence"/>
+        <card number="2" price="0" name="Vraska the Unseen"/>
+        <card number="2" price="0" name="Abrupt Decay"/>
+        <card number="2" price="0" name="Hero's Downfall"/>
+        <card number="2" price="0" name="Putrefy"/>
+        <card number="2" price="0" name="Read the Bones"/>
+        <card number="2" price="0" name="Whip of Erebos"/>
+        <card number="3" price="0" name="Forest"/>
+        <card number="4" price="0" name="Godless Shrine"/>
+        <card number="1" price="0" name="Orzhov Guildgate"/>
+        <card number="4" price="0" name="Overgrown Tomb"/>
+        <card number="2" price="0" name="Plains"/>
+        <card number="3" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Temple Garden"/>
+        <card number="4" price="0" name="Temple of Silence"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Abrupt Decay"/>
+        <card number="4" price="0" name="Elspeth, Sun's Champion"/>
+        <card number="2" price="0" name="Erebos, God of the Dead"/>
+        <card number="2" price="0" name="Hero's Downfall"/>
+        <card number="2" price="0" name="Lifebane Zombie"/>
+        <card number="2" price="0" name="Pithing Needle"/>
+        <card number="2" price="0" name="Sin Collector"/>
+    </zone>
+</cockatrice_deck>
