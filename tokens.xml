@@ -52,6 +52,17 @@
             <text></text>
             <token>1</token>
         </card>
+		        <card>
+            <name>Kraken</name>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/kraken.jpg" picURLHq="" picURLSt="">BNG</set>
+            <color>U</color>
+            <manacost></manacost>
+            <type>Token</type>
+            <pt>9/9</pt>
+            <tablerow>0</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
         <card>
             <name>Lizard</name>
             <set picURL="http://magiccards.info/extras/token/alara-reborn/lizard.jpg" picURLHq="" picURLSt="">ARB</set>
