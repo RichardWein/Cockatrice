@@ -67,7 +67,7 @@
             <name>Kithkin Soldier</name>
             <set picURL="http://magiccards.info/extras/token/shadowmoor/kithkin-soldier.jpg" picURLHq="" picURLSt="">SHM</set>
             <set picURL="http://magiccards.info/extras/token/lorwyn/kithkin-soldier.jpg" picURLHq="" picURLSt="">LRW</set>
-            <color>W</color>
+            <color>w</color>
             <manacost></manacost>
             <type>Token</type>
             <pt>1/1</pt>
@@ -267,7 +267,7 @@ Flying</text>
         <card>
             <name>Faerie Rogue</name>
             <set picURL="http://magiccards.info/extras/token/morningtide/faerie-rogue.jpg" picURLHq="" picURLSt="">MOR</set>
-            <color>B</color>
+            <color>b</color>
             <manacost></manacost>
             <type>Token</type>
             <pt>1/1</pt>
@@ -718,6 +718,7 @@ Flying</text>
         <card>
             <name>Liliana Emblem</name>
             <set picURL="http://magiccards.info/extras/token/magic-2013/liliana-of-the-dark-realms-emblem.jpg" picURLHq="" picURLSt="">M13</set>
+            <color></color>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>0</tablerow>
@@ -977,7 +978,7 @@ Flying</text>
         <card>
             <name>Angel    </name>
             <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>W</color>
+            <color>w</color>
             <manacost></manacost>
             <type>Token</type>
             <pt>4/4</pt>
@@ -1686,6 +1687,7 @@ Defender</text>
         <card>
             <name>WurmD</name>
             <set picURL="http://seinvocc.com/forum/download/file.php?id=1492" picURLHq="" picURLSt="">TK</set>
+            <color></color>
             <manacost></manacost>
             <type>Token</type>
             <pt>3/3</pt>
@@ -1969,6 +1971,16 @@ This creature can't be enchanted.</text>
             <pt>3/1</pt>
             <tablerow>0</tablerow>
             <text>Haste</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Kiora Emblem</name>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/emblem-kiora-the-crashing-wave.jpg" picURLHq="" picURLSt="">TK</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Emblem</type>
+            <tablerow>0</tablerow>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -2385,6 +2397,7 @@ This creature can't be enchanted.</text>
         <card>
             <name>Kaldra</name>
             <set picURL="http://seinvocc.com/forum/download/file.php?id=1485" picURLHq="" picURLSt="">PR</set>
+            <color></color>
             <manacost></manacost>
             <type>Token</type>
             <pt>4/4</pt>
@@ -2523,7 +2536,7 @@ This creature can't be enchanted.</text>
         <card>
             <name>Minion </name>
             <set picURL="http://img.photobucket.com/albums/v18/qtinator/Minion1.jpg" picURLHq="" picURLSt="">PY</set>
-            <color>B</color>
+            <color>b</color>
             <manacost></manacost>
             <type>Token</type>
             <pt>1/1</pt>
